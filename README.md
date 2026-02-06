@@ -270,6 +270,9 @@ MindTrace AI follows a structured, privacy-first data flow pipeline to ensure ac
 - Data is anonymized where possible
 - System focuses on **early detection and prevention**, not treatment
 
+**Data Flow Daigram**
+<img width="1536" height="1024" alt="Designer (18)" src="https://github.com/user-attachments/assets/535acd01-cce2-4716-89bc-13f64c30f7c9" />
+
 ---
 
 ## ⚠️ Challenges We Ran Into
