@@ -9,6 +9,7 @@ This project focuses on **prevention, awareness, and ethical AI**, not medical d
 
 ## Demo App
 [MindTrace AI](https://mindtraceai.lovable.app)
+
 ---
 
 ## 📑 Table of Contents
