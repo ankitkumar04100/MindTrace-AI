@@ -6,6 +6,9 @@ MindTrace AI is an AI-powered preventive cognitive wellness platform designed to
 
 This project focuses on **prevention, awareness, and ethical AI**, not medical diagnosis.
 
+
+## Demo App
+[MindTrace AI](https://mindtraceai.lovable.app)
 ---
 
 ## 📑 Table of Contents
