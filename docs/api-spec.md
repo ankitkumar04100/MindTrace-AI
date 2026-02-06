@@ -42,7 +42,7 @@ Creates a new user account with secure credential storage.
 ### Request Body
 ```json
 {
-  "name": "First Middle Last",
+  "name": "User Text",
   "email": "user@example.com",
   "password": "strong_password"
 }
@@ -159,7 +159,7 @@ Authorization: Bearer <token>
 ### Response
 ```
 {
-  "name": "First Middle Last",
+  "name": "User Text",
   "email": "user@example.com",
   "joined_on": "2026-01-10"
 }
