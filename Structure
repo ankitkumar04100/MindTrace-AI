@@ -1,0 +1,70 @@
+MindTrace-AI/
+│
+├── README.md
+│
+├── backend/
+│   ├── app/
+│   │   ├── main.py              
+│   │   ├── routes/
+│   │   │   ├── auth.py          
+│   │   │   ├── assessment.py     
+│   │   │   └── insights.py     
+│   │   ├── models/
+│   │   │   ├── user.py           
+│   │   │   └── assessment.py     
+│   │   ├── services/
+│   │   │   ├── ml_service.py     
+│   │   │   └── feature_engine.py 
+│   │   ├── database.py           
+│   │   └── security.py           
+│   │
+│   ├── requirements.txt
+│   └── Dockerfile (optional but powerful)
+│
+├── ml/
+│   ├── data/
+│   │   ├── sample_dataset.csv    
+│   │
+│   ├── notebooks/
+│   │   └── model_training.ipynb  
+│   │
+│   ├── model/
+│   │   └── stress_model.pkl      
+│   │
+│   ├── train.py                  
+│   └── evaluate.py              
+│
+├── frontend/
+│   ├── src/
+│   │   ├── components/
+│   │   │   ├── Dashboard.jsx
+│   │   │   ├── StressScore.jsx
+│   │   │   └── TrendsChart.jsx
+│   │   ├── pages/
+│   │   │   ├── Home.jsx
+│   │   │   └── Assessment.jsx
+│   │   ├── services/
+│   │   │   └── api.js             
+│   │   └── App.jsx
+│   │
+│   └── package.json
+│
+├── docs/
+│   ├── architecture.png         
+│   ├── data-flow.png           
+│   ├── api-spec.md               
+│   └── model-metrics.md          
+│
+├── demo/
+│   ├── demo_video.mp4           
+│   └── screenshots/
+│
+├── tests/
+│   ├── test_api.py
+│   └── test_model.py
+│
+├── .gitignore
+├── LICENSE
+├──CONTRIBUTING.md
+├──CODE_OF_CONDUCT.md
+└──SECURITY.md
