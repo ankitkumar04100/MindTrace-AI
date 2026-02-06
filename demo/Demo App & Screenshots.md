@@ -1,7 +1,7 @@
 # Demo App
 [MindTrace AI](https://mindtraceai.lovable.app)
 
-# Screenshorts
+# Screenshots
 
 ![WhatsApp Image 2026-02-06 at 10 22 32 PM](https://github.com/user-attachments/assets/6cd70b44-6708-40ab-8562-0df5f52871ae)
 
