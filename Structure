@@ -57,8 +57,7 @@ MindTrace-AI/
 │
 ├── demo/
 │   ├──demo_video.mp4  
-│   ├──demo_app
-│   └── screenshots/
+│   └──demo_app & screenshots/   
 │
 ├── tests/
 │   ├── test_api.py
