@@ -19,7 +19,7 @@ MindTrace-AI/
 │   │   └── security.py           
 │   │
 │   ├── requirements.txt
-│   └── Dockerfile (optional but powerful)
+│   └── Dockerfile 
 │
 ├── ml/
 │   ├── data/
